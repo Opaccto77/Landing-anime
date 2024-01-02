@@ -95,6 +95,7 @@ body {
 
 .header-txt {
     width: 40%;
+    margin-right: 250px;
 }
 
 
@@ -131,7 +132,7 @@ body {
 }
 
 .images {
-    width: 800px;
+    width: 700px;
     height: 380px;
     position: absolute;
     right: 0;
@@ -171,7 +172,7 @@ body {
 .rows {
     width: 180px;
     position: absolute;
-    right: 620px;
+    right: 500px;
     bottom: 70px;
 }
 
@@ -243,6 +244,7 @@ body {
         text-align: center;
         width: 100%;
         margin-bottom: 30px;
+        margin-right: 0;
     }
 
     .header-txt h1 {
